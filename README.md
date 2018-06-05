@@ -1,2 +1,2 @@
 # my-linux-code
-things about linux or C++
+Things about linux or C++
